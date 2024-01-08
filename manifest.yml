@@ -1,6 +1,7 @@
 ---
 language: stratos
 dependencies: []
+stack: cflinuxfs4
 include_files:
   - bin/compile
   - bin/detect
